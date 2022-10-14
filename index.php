@@ -10,17 +10,6 @@
 </head>
 <body>
     <div class='container'>
-
-        <div class="list">
-                <div class="listName">
-                    <h1>listName</h1>
-                </div>
-                <div class="task">
-                    <h1>taskName</h1>
-                <p>task</p>
-            </div>
-        </div>
-
     </div>
 </body>
 </html>
